@@ -21,3 +21,18 @@ The dataset is split into two different ranges:
 1. low-price range from $11 to $999 per night
 2. high-price range, from $1,000 to $25,000 per night
 
+## Result
+
+Low-price: 
+
+![Low-price results](https://github.com/selienamei/Hawaii-Airbnb-Price-Predication/blob/main/images/Capture3.JPG)
+
+High-price:
+
+![High-price results](https://github.com/selienamei/Hawaii-Airbnb-Price-Predication/blob/main/images/Capture4.JPG)
+
+Full-dataset:
+
+![All-price results](https://github.com/selienamei/Hawaii-Airbnb-Price-Predication/blob/main/images/Capture5.JPG)
+
+
