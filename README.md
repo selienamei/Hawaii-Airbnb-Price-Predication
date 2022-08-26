@@ -21,7 +21,7 @@ The dataset is split into two different ranges:
 1. low-price range from $11 to $999 per night
 2. high-price range, from $1,000 to $25,000 per night
 
-## Data Preprocessing
+## Data Preprocessing / analysis
 1. Remove unwanted symbols, fill or drop missing values, etc.
 2. Extract Amenities and host_verifications into binary features: 
 ex, has_pool, has_kitchen, etc. 
